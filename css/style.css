@@ -8,7 +8,12 @@ body{
 
 .quem-somos{
     background-color: #33FF3C;
-    color:#FF33DD
+    color:black;
+}
+
+.nosso-time{
+    background-color: #FF33DD;   
+    color: black;
 }
 
 .margin{
@@ -17,8 +22,8 @@ body{
 }
 
 .parceiros{
-    background-color: #FF33DD;
-    color: #33FF3C;
+    background-color: #33FF3C;
+    color: black;
 }
 
 .bg-footer{
