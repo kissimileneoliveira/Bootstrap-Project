@@ -1,7 +1,9 @@
 
+
 body{
     font: 20px Arial, sans-serif;
 }
+
 .navbar {
     background-color: #FF33DD;
 }
@@ -13,6 +15,16 @@ body{
 
 .nosso-time{
     background-color: #FF33DD;   
+    color: black;
+} 
+
+.historias{
+    background-color: #FF33DD;   
+    color: black;
+}
+
+.galeria{
+    background-color: #33FF3C;   
     color: black;
 }
 
