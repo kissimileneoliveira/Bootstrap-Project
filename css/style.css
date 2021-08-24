@@ -13,18 +13,28 @@ body{
     color:black;
 }
 
+.idealizadores{
+    background-color: #FF33DD;
+    color:black;
+}
+
 .nosso-time{
-    background-color: #FF33DD;   
+    background-color: #33FF3C;   
     color: black;
 } 
 
+.parceiros{
+    background-color: #FF33DD;
+    color: black;
+}
+
 .historias{
-    background-color: #FF33DD;   
+    background-color: #33FF3C;   
     color: black;
 }
 
 .galeria{
-    background-color: #33FF3C;   
+    background-color: #FF33DD;   
     color: black;
 }
 
@@ -33,12 +43,8 @@ body{
     padding-top: 10px;
 }
 
-.parceiros{
-    background-color: #33FF3C;
-    color: black;
-}
-
 .bg-footer{
-    background-color: black;
-    color: white;
+    background-color: #33FF3C;
+    color:black;
+    display: block;
 }
