@@ -43,7 +43,11 @@ body{
     padding-top: 10px;
 }
 
-.bg-footer{
+div {
+    display: block;
+}
+
+.footer{
     background-color: #33FF3C;
     color:black;
     display: block;
